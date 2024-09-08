@@ -1,0 +1,3 @@
+CC,1234,Juan,Pérez
+CC,12345,Ana,García
+CC,123456,Carlos,López
